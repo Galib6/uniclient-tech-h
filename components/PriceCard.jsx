@@ -33,7 +33,7 @@ const PriceCard = () => {
           </div>
 
           <div className="lg:mt-[67px] mt-[16px] bg-[#282A37] p-[30px] rounded-[15px]">
-            <p className="font-16px text-white">Starter Plan</p>
+            <p className="font-16px text-white">Basic Plan</p>
             <h1 className="mt-[28px] font-semibold text-[42px] text-white">
               $79<span className="text-[18px] font-normal">/month</span>
             </h1>
@@ -54,7 +54,7 @@ const PriceCard = () => {
           </div>
 
           <div className="lg:mt-[67px] mt-[16px] bg-[#282A37] p-[30px] rounded-[15px]">
-            <p className="font-16px text-white">Starter Plan</p>
+            <p className="font-16px text-white">Premium Plan</p>
             <h1 className="mt-[28px] font-semibold text-[42px] text-white">
               $129<span className="text-[18px] font-normal">/month</span>
             </h1>

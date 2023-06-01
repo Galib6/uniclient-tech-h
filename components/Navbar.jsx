@@ -18,10 +18,10 @@ const Navbar = () => {
       if (window.scrollY > lastScrollY && !mobileMenu) {
         setShow("-translate-y-[80px] bg-[#12141D]");
       } else {
-        setShow("shadow-sm");
+        setShow("shadow-sm ");
       }
     } else {
-      setShow("translate-y-0");
+      setShow("translate-y-0 ");
     }
     setLastScrollY(window.scrollY);
   };
