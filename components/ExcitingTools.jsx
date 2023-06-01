@@ -56,7 +56,7 @@ const ExcitingTools = () => {
   return (
     <div>
       <Wrapper>
-        <div className=" lg:mt-[750px] mt-[300px]">
+        <div className=" lg:mt-[750px] mt-[200px]">
           <h1 className="text-center text-white lg:text-[42px] text-[25px]">
             54 exciting writing tools
           </h1>
